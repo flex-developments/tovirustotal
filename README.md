@@ -1,7 +1,7 @@
 # tovirustotal
 Python - Comprobación de hashes de procesos contra VirusTotal.
 
-Copyright (C) 2014
+## Copyright (C) 2014
 Ing. Felix D. Lopez M. - flex.developments@gmail.com
 
 Este programa es software libre; Usted puede usarlo bajo los terminos de la licencia de software GPL version 2.0 de la Free Software Foundation.
