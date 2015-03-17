@@ -1,0 +1,54 @@
+<root>
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'>
+	<System>
+		<Provider Name='Microsoft-Windows-Sysmon' Guid='{5770385F-C22A-43E0-BF4C-06F5698FFBD9}'/>
+		<EventID>1</EventID>
+		<Version>2</Version>
+		<Level>4</Level>
+		<Task>1</Task>
+		<Opcode>0</Opcode>
+		<Keywords>0x8000000000000000</Keywords>
+		<TimeCreated SystemTime='2014-09-01T17:44:16.745258300Z'/>
+		<EventRecordID>159375</EventRecordID>
+		<Correlation/>
+		<Execution ProcessID='2492' ThreadID='1528'/>
+		<Channel>Microsoft-Windows-Sysmon/Operational</Channel>
+		<Computer>CLOYO-NBK.directvla.com.ar</Computer>
+		<Security UserID='S-1-5-18'/>
+	</System>
+	<EventData>
+		<Data Name='UtcTime'>01/09/2014 05:44 p.m.</Data>
+		<Data Name='ProcessGuid'>{00000000-B070-5404-0000-0010F33F5D00}</Data>
+		<Data Name='ProcessId'>6660</Data>
+		<Data Name='Image'>C:\Windows\system32\SearchFilterHost.exe</Data>
+		<Data Name='CommandLine'>"C:\Windows\system32\SearchFilterHost.exe" 0 512 516 524 65536 520 </Data>
+		<Data Name='User'>NT AUTHORITY\SYSTEM</Data>
+		<Data Name='LogonId'>0x3e7</Data>
+		<Data Name='TerminalSessionId'>0</Data>
+		<Data Name='IntegrityLevel'>Medium</Data>
+		<Data Name='HashType'>MD5</Data>
+		<Data Name='Hash'>52D56D1013D4F1B99102679314CC5325</Data>
+		<Data Name='ParentProcessGuid'>{00000000-8B6B-5404-0000-0010BF980500}</Data>
+		<Data Name='ParentProcessId'>4648</Data>
+		<Data Name='ParentImage'>C:\Windows\system32\SearchIndexer.exe</Data>
+		<Data Name='ParentCommandLine'>C:\Windows\system32\SearchIndexer.exe /Embedding</Data>
+	</EventData>
+	<EventData>
+		<Data Name='UtcTime'>fjejeje</Data>
+		<Data Name='ProcessGuid'>jajaja</Data>
+		<Data Name='ProcessId'>lala</Data>
+		<Data Name='Image'>jgnhf</Data>
+		<Data Name='CommandLine'>pdpdpdpdpd</Data>
+		<Data Name='User'>gdfgdfgfg</Data>
+		<Data Name='LogonId'>sdlnflsnfd</Data>
+		<Data Name='TerminalSessionId'>jojojojo</Data>
+		<Data Name='IntegrityLevel'>Altooooooo</Data>
+		<Data Name='HashType'>MD5</Data>
+		<Data Name='Hash'>52D56D1013D4F1B99102679314CC5325</Data>
+		<Data Name='ParentProcessGuid'>lerolero</Data>
+		<Data Name='ParentProcessId'>7654</Data>
+		<Data Name='ParentImage'>aaaaaaaaaaa</Data>
+		<Data Name='ParentCommandLine'>eeeeeeeeeeee</Data>
+	</EventData>
+</Event>
+</root>
